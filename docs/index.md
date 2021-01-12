@@ -7,7 +7,7 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 
 ## Practical Information
 
-**Location**: lectures will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/193402/external_tools/21146)
+**Location**: lectures will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture.
 
 **Time**: MWF 10:10 - 11:00 am CDT   
 
