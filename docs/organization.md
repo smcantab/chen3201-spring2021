@@ -21,6 +21,11 @@ _Numerical Methods with Chemical Engineering Applications_ by Kevin D. Dorfman a
 - You can be late by 2 days **once**, for whatever reason. Any time after that, late work will not be accepted (score of 0). There can be additional accommodations in the case of properly documented family emergencies or illness.
 - I encourage you to collaborate on homework, but **please do so through Piazza** to the extent that is possible. Nevertheless, you must come up with your own solutions and write your own code. So, when answering questions on Piazza guide your classmates towards the solution, do **not** post fully worked solutions.
 
+## Piazza
+
+Please use Piazza ([sign-up link]( https://piazza.com/umn/spring2021/chen3201/home)) for anything technical e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
+
+
 ## Grading Policy
 
 Your grade will be based on these components:  
