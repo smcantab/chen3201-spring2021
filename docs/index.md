@@ -13,33 +13,33 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 
 **Instructor**:
 - [Stefano Martiniani](https://www.cems.umn.edu/people/faculty/stefano-martiniani) (he/him)
-- [Ben Hackel](https://www.cems.umn.edu/people/faculty/benjamin-hackel) (he/him)
+- [Benjamin Hackel](https://www.cems.umn.edu/people/faculty/benjamin-hackel) (he/him)
 
 
 **Instructors office hours**:
-- **Stefano** Wednesday 1:00-2:00 pm CDT
-- **Ben** Wednesday 2:00-3:00 pm CDT
+- **Stefano**: Wednesday 1:00-2:00 pm CDT
+- **Ben**: Wednesday 2:00-3:00 pm CDT
 
 **Teaching Assistant**:
 - [Kaylie Richard](https://www.cems.umn.edu/people/grads/kaylie-richard) (she/her)
 - [Michael Leyden](https://www.cems.umn.edu/people/grads/michael-leyden) (he/him)
-- [Tse-Han Kuo](https://www.cems.umn.edu/people/grads/tse-han-kuo) (he/him)
+- [Tse-Han (Hammer) Kuo](https://www.cems.umn.edu/people/grads/tse-han-kuo) (he/him)
 
 **TA office hours**:
-- **Kaylie**
+- **Kaylie**: Tuesday 10:00-11:00 am, Thursday 4:00-6:00 pm CDT
 - **Michael**
-- **Tse-Han**
+- **Hammer**: Monday 4:00-5:00 pm, Friday 4:00-6:00 pm CDT
 
 ## Communication
-**Class discussion**: Please use Piazza ([sign-up link](https://piazza.com/umn/spring2021/chen3201)) for anything technical e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
+**Class discussion**: Please use Piazza ([sign-up link]( https://piazza.com/umn/spring2021/chen3201/home)) for anything technical e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
 
-**Assignments**: will be posted on [Canvas course page](https://canvas.umn.edu/courses/193402). See [Homework][2] for details.
+**Assignments**: will be posted on Gradescope, accessible via the [Canvas course page](https://canvas.umn.edu/courses/217014). See [Homework][2] for details.
 
-**Email**: contact instructor via email from (strictly) your UMN email account for any confidential issues. Please start the subject line with CHEN 5595.
+**Email**: contact the instructor (Stefano) via email from (strictly) your UMN email account for any confidential issues. Please start the subject line with CHEN 3201. For any other question use Piazza (see above).
 
 ## Pre-requisites
 
-You must be either a MatS/ChEn graduate student or an upper-division MatS/ChEn major who has taken ChEn 3201, MatS 3141. Students from other PhD programs/majors need to receive instructor's approval. You must have a comfortable knowledge of linear algebra and multivariate calculus. Familiarity with probabilities will be helpful but not strictly necessary. You must know at least one programming language, ideally Python. I will assume that you can transition to writing simple programs in Python autonomously (see [Python Resources][1]).
+You must be either an upper-division ChEn major who has taken ChEn 2001 and ChEn 3005, or have departmental consent to take the class. You must have a comfortable knowledge of linear algebra, multivariate calculus and differential equations. Familiarity with programming will be helpful but not necessary as you will be introduced to the core ideas (see [Matlab Resources][1]).
 
-[1]: resources.md#python
+[1]: resources.md#Matlab
 [2]: organization.md#homework
