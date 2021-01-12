@@ -3,7 +3,14 @@
 ## Overview
 This course is meant to be an introduction for undergraduates in Chemical Engineering to basic numerical methods, and appreciation of their potential and limitations, and their application to chemical engineering problem.
 
-Very few problems in chemical engineering have analytical solutions. In the course of learning the engineering science at the heart of chemical engineering, you have probably focused on this small subset of solvable problems. In this class, you will learn how to construct numerical approximations to the solutions of the rest of the problems. The course is organized around the following themes: **(1)** Intro to mathematical modeling and programming in Matlab **(2)** Linear algebraic equations **(3)** Nonlinear algebraic equations **(4)** Ordinary Differential Equations (ODEs): Initial Value Problems and Boundary Value Problems **(5)** Dynamical Systems Theory **(6)** Partial Differential Equations (PDEs) **(7)** Numerical Integration and Interpolation.
+Very few problems in chemical engineering have analytical solutions. In the course of learning the engineering science at the heart of chemical engineering, you have probably focused on this small subset of solvable problems. In this class, you will learn how to construct numerical approximations to the solutions of the rest of the problems. The course is organized around the following themes:
+1. Intro to mathematical modeling and programming in Matlab
+2. Linear algebraic equations
+3. Nonlinear algebraic equations
+4. Ordinary Differential Equations (ODEs): Initial Value Problems and Boundary Value Problems
+5. Dynamical Systems Theory
+6. Partial Differential Equations (PDEs)
+7. Numerical Integration and Interpolation.
 
 ## Practical Information
 
