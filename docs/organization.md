@@ -14,6 +14,10 @@
 **Main textbook**:  
 _Numerical Methods with Chemical Engineering Applications_ by Kevin D. Dorfman and Prodromos Daoutidis (link to UMN library [entry](https://canvas.umn.edu/courses/217014/external_tools/21146), Amazon [entry](https://www.amazon.com/dp/1107135117/ref=cm_sw_em_r_mt_dp_tzI.FbWQZJTSB)).
 
+## Piazza
+
+Please use Piazza ([sign-up link](https://piazza.com/umn/spring2021/chen3201/home)) for anything technical question e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
+
 ## Homework
 - There will be 12 assignments (written and/or code).
 - Assignments will be posted by the end of Friday and are **due by the end of Friday (23:59)** of the following week.
@@ -23,10 +27,28 @@ _Numerical Methods with Chemical Engineering Applications_ by Kevin D. Dorfman a
 - You can be late by 2 days **once**, for whatever reason. Any time after that, late work will not be accepted (score of 0). There can be additional accommodations in the case of properly documented family emergencies or illness.
 - I encourage you to collaborate on homework, but **please do so through Piazza** to the extent that is possible. Nevertheless, you must come up with your own solutions and write your own code. So, when answering questions on Piazza guide your classmates towards the solution, do **not** post fully worked solutions.
 
-## Piazza
+Each homework problem will be graded on a 3 point scale with the following breakdown:
 
-Please use Piazza ([sign-up link](https://piazza.com/umn/spring2021/chen3201/home)) for anything technical question e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
+3 pts: 	Correct, complete and easy to follow the code/solution
 
+2 pts: 	Minor error, minor omission or difficult to follow the code/solution
+
+1 pt: 	Major error, major omission or very poorly written code/solution
+
+0 pts: 	Not submitted or lack of effort (at the grader‘s discretion)  
+
+Some problems may be worth double credit due to their complexity or parts.  In addition to the “correctness” score, you will also receive a “completeness” score.  You will get a completeness score of 0 if you get a 0 on the problem.  Otherwise you will receive a 1.
+
+The solution to all of the problems on the homework will be posted on Canvas shortly after the "late" submission date.
+
+In addition to the graded problems, we will post an extensive set of practice problems and old exam problems that will familiarize you with the algorithms underlying numerical methods and basic mathematical skills. The examinations will be similar to these homework questions, so you should work them out on your own to prepare for the exams.
+
+## Examinations
+There will be two in-class midterm examinations following the course schedule, see [Calendar][1] for dates. The final exam will be two hours and comprehensive. We will distribute a sheet of relevant equations that you may need together with each exam. We will email the equations sheet to you at least 2 days before the examination.
+
+Although the exams will happen remotely, communicating devices (cell phones, etc.) and web browsing are not permitted during the examination.
+
+No student will be permitted to take the exam before the scheduled time and no makeup exams will be given. Students who miss an exam will be given a grade of zero for it unless personal illness or family emergency was the reason for missing the exam. Special arrangements will be made in such circumstances, provided that they are well documented.
 
 ## Grading Policy
 
@@ -75,3 +97,6 @@ All policies above apply, specifically for CHEN 3201:
 
 - If the academic dishonesty is related to a midterm or the final exam, closely proctored supplemental exams will be offered and graded as pass (C-) or fail (F). The student will receive a grade no higher than a C- in the course.
 - If the academic dishonesty is related to the homework, the homework will get a score of 0 and this will count towards the final grade.
+
+[1]: calendar.md
+[2]: organization.md#scholastic-dishonesty
