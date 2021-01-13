@@ -19,20 +19,24 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 **Time**: MWF 10:10 - 11:00 am CDT   
 
 **Instructor**:
+
 - [Stefano Martiniani](https://www.cems.umn.edu/people/faculty/stefano-martiniani) (he/him)
 - [Benjamin Hackel](https://www.cems.umn.edu/people/faculty/benjamin-hackel) (he/him)
 
 
 **Instructors office hours**:
+
 - **Stefano**: Wednesday 1:00-2:00 pm CDT
 - **Ben**: Wednesday 2:00-3:00 pm CDT
 
 **Teaching Assistant**:
+
 - [Kaylie Richard](https://www.cems.umn.edu/people/grads/kaylie-richard) (she/her)
 - [Michael Leyden](https://www.cems.umn.edu/people/grads/michael-leyden) (he/him)
 - [Tse-Han (Hammer) Kuo](https://www.cems.umn.edu/people/grads/tse-han-kuo) (he/him)
 
 **TA office hours**:
+
 - **Kaylie**: Tuesday 10:00-11:00 am, Thursday 4:00-6:00 pm CDT
 - **Michael**
 - **Hammer**: Monday 4:00-5:00 pm, Friday 4:00-6:00 pm CDT
