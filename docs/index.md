@@ -20,7 +20,7 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 - [Stefano Martiniani](https://www.cems.umn.edu/people/faculty/stefano-martiniani) (he/him)
 - [Benjamin Hackel](https://www.cems.umn.edu/people/faculty/benjamin-hackel) (he/him)
 
-### TAs:
+### TAs
 
 - [Kaylie Richard](https://www.cems.umn.edu/people/grads/kaylie-richard) (she/her)
 - [Michael Leyden](https://www.cems.umn.edu/people/grads/michael-leyden) (he/him)
@@ -34,9 +34,7 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 
 ### Recitations
 
-**Location**: recitations will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture.
-
-**Time**:
+**Location**: recitations will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture. Recitations will be held at the following times.
 
 | Section    | Time           | Instructor         |
 |------------|----------------|--------------------|
@@ -46,7 +44,7 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 | Section 5  | 3:35:4:25 PM   | Stefano Martiniani |
 
 
-### Office hours:
+### Office hours
 
 **Instructors office hours**:
 
@@ -56,7 +54,7 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 **TA office hours**:
 
 - **Kaylie**: Tuesday 10:00-11:00 am, Thursday 4:00-6:00 pm CDT
-- **Michael**
+- **Michael**:
 - **Hammer**: Monday 4:00-5:00 pm, Friday 4:00-6:00 pm CDT
 
 ## Communication

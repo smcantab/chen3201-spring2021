@@ -29,13 +29,13 @@ Please use Piazza ([sign-up link](https://piazza.com/umn/spring2021/chen3201/hom
 
 Each homework problem will be graded on a 3 point scale with the following breakdown:
 
-3 pts: 	Correct, complete and easy to follow the code/solution
+**3 pts**: 	Correct, complete and easy to follow the code/solution
 
-2 pts: 	Minor error, minor omission or difficult to follow the code/solution
+**2 pts**: 	Minor error, minor omission or difficult to follow the code/solution
 
-1 pt: 	Major error, major omission or very poorly written code/solution
+**1 pt**: 	Major error, major omission or very poorly written code/solution
 
-0 pts: 	Not submitted or lack of effort (at the grader‘s discretion)  
+**0 pts**: 	Not submitted or lack of effort (at the grader‘s discretion)  
 
 Some problems may be worth double credit due to their complexity or parts.  In addition to the “correctness” score, you will also receive a “completeness” score.  You will get a completeness score of 0 if you get a 0 on the problem.  Otherwise you will receive a 1.
 
@@ -49,6 +49,11 @@ There will be two in-class midterm examinations following the course schedule, s
 Although the exams will happen remotely, communicating devices (cell phones, etc.) and web browsing are not permitted during the examination.
 
 No student will be permitted to take the exam before the scheduled time and no makeup exams will be given. Students who miss an exam will be given a grade of zero for it unless personal illness or family emergency was the reason for missing the exam. Special arrangements will be made in such circumstances, provided that they are well documented.
+
+#Re-grading
+
+Students who wish to have their homework or exams re-graded must submit their request via gradescope within 1 week of the homework being returned. You will not be able to request a re-grade after the deadline has passed. The entire exam/hw will be reviewed for any other possible oversights, and a revised grade (which may be higher or lower) will be returned to the student.
+
 
 ## Grading Policy
 
@@ -97,6 +102,11 @@ All policies above apply, specifically for CHEN 3201:
 
 - If the academic dishonesty is related to a midterm or the final exam, closely proctored supplemental exams will be offered and graded as pass (C-) or fail (F). The student will receive a grade no higher than a C- in the course.
 - If the academic dishonesty is related to the homework, the homework will get a score of 0 and this will count towards the final grade.
+- You are allowed to use the codes from the book or codes that are posted from class, recitation and previous homeworks.  You are not allowed to use codes developed by previous or current students or any codes posted on-line.
+
+### Code of Conduct
+
+See [University Code of Conduct](https://policy.umn.edu/node/7178).
 
 [1]: calendar.md
 [2]: organization.md#scholastic-dishonesty
