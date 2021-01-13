@@ -11,30 +11,47 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 4. Ordinary Differential Equations (ODEs): Initial Value Problems and Boundary Value Problems
 5. Dynamical Systems Theory
 6. Partial Differential Equations (PDEs)
-7. Numerical Integration and Interpolation.
+7. Numerical Integration.
 
 ## Practical Information
 
-**Location**: lectures will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture.
-
-**Time**: MWF 10:10 - 11:00 am CDT   
-
-**Instructor**:
+### Instructors
 
 - [Stefano Martiniani](https://www.cems.umn.edu/people/faculty/stefano-martiniani) (he/him)
 - [Benjamin Hackel](https://www.cems.umn.edu/people/faculty/benjamin-hackel) (he/him)
 
+### TAs:
+
+- [Kaylie Richard](https://www.cems.umn.edu/people/grads/kaylie-richard) (she/her)
+- [Michael Leyden](https://www.cems.umn.edu/people/grads/michael-leyden) (he/him)
+- [Tse-Han (Hammer) Kuo](https://www.cems.umn.edu/people/grads/tse-han-kuo) (he/him)
+
+### Lectures
+
+**Location**: lectures will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture.
+
+**Time**: MWF 10:10 - 11:00 am CDT
+
+### Recitations
+
+**Location**: recitations will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture.
+
+**Time**:
+
+| Section    | Time           | Instructor         |
+|------------|----------------|--------------------|
+| Section 2  | 9:05-9:55AM    | Benjamin Hackel    |
+| Section 3  | 11:15-12:05 AM | Benjamin Hackel    |
+| Section 4  | 12:20:1:10 PM  | Benjamin Hackel    |
+| Section 5  | 3:35:4:25 PM   | Stefano Martiniani |
+
+
+### Office hours:
 
 **Instructors office hours**:
 
 - **Stefano**: Wednesday 1:00-2:00 pm CDT
 - **Ben**: Wednesday 2:00-3:00 pm CDT
-
-**Teaching Assistant**:
-
-- [Kaylie Richard](https://www.cems.umn.edu/people/grads/kaylie-richard) (she/her)
-- [Michael Leyden](https://www.cems.umn.edu/people/grads/michael-leyden) (he/him)
-- [Tse-Han (Hammer) Kuo](https://www.cems.umn.edu/people/grads/tse-han-kuo) (he/him)
 
 **TA office hours**:
 

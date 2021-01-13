@@ -4,7 +4,7 @@
 
 **Lectures** will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146). You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture. They will be **recorded** an uploaded to [MediaSpace](https://mediaspace.umn.edu/) on the same day to an unlisted [playlist](https://mediaspace.umn.edu/playlist/edit/1_z9e09674//1).
 
-**Notes** will be uploaded to the [Canvas course page](https://canvas.umn.edu/courses/193402) after lectures.
+**Notes** and **HW solutions** will be uploaded to the [Canvas course page](https://canvas.umn.edu/courses/193402) after lectures.
 
 **Code** examples will be uploaded to the [course GitHub page](https://github.com/smcantab/chen3201-spring2021).
 
@@ -34,6 +34,8 @@ Your grade will be based on these components:
 - **Midterm 1**: 20%
 - **Midterm 2**: 20%
 - **Final Exam**: 30%
+
+Please ignore the score for your total grade on Canvas, as it does not reflect the weighting of different parts of the course.
 
 ## University grading scales
 
