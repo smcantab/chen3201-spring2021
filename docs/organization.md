@@ -50,7 +50,7 @@ Although the exams will happen remotely, communicating devices (cell phones, etc
 
 No student will be permitted to take the exam before the scheduled time and no makeup exams will be given. Students who miss an exam will be given a grade of zero for it unless personal illness or family emergency was the reason for missing the exam. Special arrangements will be made in such circumstances, provided that they are well documented.
 
-#Re-grading
+## Regrading
 
 Students who wish to have their homework or exams re-graded must submit their request via gradescope within 1 week of the homework being returned. You will not be able to request a re-grade after the deadline has passed. The entire exam/hw will be reviewed for any other possible oversights, and a revised grade (which may be higher or lower) will be returned to the student.
 
