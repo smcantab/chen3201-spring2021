@@ -11,7 +11,6 @@ There are many resources available to learn Matlab. The [textbook][1] itself pro
 - Other online resources
   - [Crash course in MATLAB](https://www-users.math.umn.edu/~lerman/math5467/matlab_adv.pdf) by Tobin Driscoll
   - [The official Matlab crash course](https://slccmathdepartment.weebly.com/uploads/2/8/7/2/28720941/matlab_crash_course.pdf) by Adam Attarian
-  - [Matlab Basics and A Little Beyond](https://www.math.utah.edu/~eyre/computing/matlab-intro/)
 - You can access Matlab's documentation both [online](https://www.mathworks.com/help/matlab/) and from the command window. Simply type `help functionName` or `doc functionName` in the command window to pull up the documentation (if it was not clear you should replace `functionName` with the name of the function that you are interested in, for instance `help fprintf`).
 - Textbooks
   - [_MatLab: A Practical Introduction to Programming and Problem Solving_](https://primo.lib.umn.edu/permalink/f/dkvf4l/TN_cdi_askewsholts_vlebooks_9780124058934) by Stormy Attaway
