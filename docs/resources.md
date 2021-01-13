@@ -13,9 +13,9 @@ There are many resources available to learn Matlab. The [textbook][1] itself pro
   - [The official Matlab crash course](https://slccmathdepartment.weebly.com/uploads/2/8/7/2/28720941/matlab_crash_course.pdf) by Adam Attarian
 - You can access Matlab's documentation both [online](https://www.mathworks.com/help/matlab/) and from the command window. Simply type `help functionName` or `doc functionName` in the command window to pull up the documentation (if it was not clear you should replace `functionName` with the name of the function that you are interested in, for instance `help fprintf`).
 - Textbooks
-  - [_MatLab: A Practical Introduction to Programming and Problem Solving_](https://primo.lib.umn.edu/permalink/f/dkvf4l/TN_cdi_askewsholts_vlebooks_9780124058934) by Stormy Attaway
-  - [_MatLab: Programming for Engineers_](https://primo.lib.umn.edu/permalink/f/11uk8fo/UMN_ALMA21636085160001701) by Stephen J. Chapman
-  - [_Essential MatLab for Engineers and Scientists_](https://primo.lib.umn.edu/permalink/f/dkvf4l/TN_cdi_askewsholts_vlebooks_9780081029985) by Brian H. Hahn and Daniel T. Valentine
+    - [_MatLab: A Practical Introduction to Programming and Problem Solving_](https://primo.lib.umn.edu/permalink/f/dkvf4l/TN_cdi_askewsholts_vlebooks_9780124058934) by Stormy Attaway
+    - [_MatLab: Programming for Engineers_](https://primo.lib.umn.edu/permalink/f/11uk8fo/UMN_ALMA21636085160001701) by Stephen J. Chapman
+    - [_Essential MatLab for Engineers and Scientists_](https://primo.lib.umn.edu/permalink/f/dkvf4l/TN_cdi_askewsholts_vlebooks_9780081029985) by Brian H. Hahn and Daniel T. Valentine
 
 ## Gradescope
 Gradescope is a great tool for students to hand in their homework with ease and for instructors to grade it. There is a number of guides and tutorials to work with gradescope, I list some of the key ones.
