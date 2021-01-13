@@ -26,7 +26,8 @@ Gradescope is a great tool for students to hand in their homework with ease and 
         - [Guide](https://help.gradescope.com/article/0chl25eed3-student-scan-mobile-device)
         - [Video tutorial](https://www.youtube.com/watch?v=u-pK4GzpId0&feature=emb_logo)
     - Viewing feedback and requesting regrades
-      - [Video tutorial](https://www.youtube.com/watch?v=TOHCkI12mh0&feature=emb_logo)
+          - [Guide](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request) 
+          - [Video tutorial](https://www.youtube.com/watch?v=TOHCkI12mh0&feature=emb_logo)
     - [Submitting code](https://help.gradescope.com/article/ccbpppziu9-student-submit-work#submitting_code)
     - [Submitting after the deadline](https://help.gradescope.com/article/g8412yh1m6-student-submit-work-late)
 
