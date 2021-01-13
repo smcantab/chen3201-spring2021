@@ -58,7 +58,7 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 - **Hammer**: Monday 4:00-5:00 pm, Friday 4:00-6:00 pm CDT
 
 ## Communication
-**Class discussion**: Please use Piazza ([sign-up link]( https://piazza.com/umn/spring2021/chen3201/home)) for anything technical e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
+**Class discussion**: Please use Piazza ([sign-up link]( https://piazza.com/umn/spring2021/chen3201/home)) for anything technical (e.g., homework), or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
 
 **Assignments**: will be posted on Gradescope, accessible via the [Canvas course page](https://canvas.umn.edu/courses/217014). See [Homework][2] for details.
 

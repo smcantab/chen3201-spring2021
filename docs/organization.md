@@ -39,21 +39,20 @@ Each homework problem will be graded on a 3 point scale with the following break
 
 Some problems may be worth double credit due to their complexity or parts.  In addition to the “correctness” score, you will also receive a “completeness” score.  You will get a completeness score of 0 if you get a 0 on the problem.  Otherwise you will receive a 1.
 
-The solution to all of the problems on the homework will be posted on Canvas shortly after the "late" submission date.
+The solution to all of the problems on the homework will be posted on Canvas shortly after the "late" due date.
 
 In addition to the graded problems, we will post an extensive set of practice problems and old exam problems that will familiarize you with the algorithms underlying numerical methods and basic mathematical skills. The examinations will be similar to these homework questions, so you should work them out on your own to prepare for the exams.
 
 ## Examinations
 There will be two in-class midterm examinations following the course schedule, see [Calendar][1] for dates. The final exam will be two hours and comprehensive. We will distribute a sheet of relevant equations that you may need together with each exam. We will email the equations sheet to you at least 2 days before the examination.
 
-Although the exams will happen remotely, communicating devices (cell phones, etc.) and web browsing are not permitted during the examination.
+Although the exams will happen remotely, communicating devices (cell phones, etc.), chatting and web browsing are not permitted during the examination.
 
 No student will be permitted to take the exam before the scheduled time and no makeup exams will be given. Students who miss an exam will be given a grade of zero for it unless personal illness or family emergency was the reason for missing the exam. Special arrangements will be made in such circumstances, provided that they are well documented.
 
 ## Regrading
 
-Students who wish to have their homework or exams re-graded must submit their request via gradescope within 1 week of the homework being returned. You will not be able to request a re-grade after the deadline has passed. The entire exam/hw will be reviewed for any other possible oversights, and a revised grade (which may be higher or lower) will be returned to the student.
-
+Students who wish to have their homework or exams re-graded must submit their request via Gradescope within 1 week of the homework being returned. You will not be able to request a re-grade after the deadline has passed. The entire exam/hw will be reviewed for any other possible oversights, and a revised grade (which may be higher or lower) will be returned to the student.
 
 ## Grading Policy
 
