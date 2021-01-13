@@ -23,7 +23,7 @@ _Numerical Methods with Chemical Engineering Applications_ by Kevin D. Dorfman a
 
 ## Piazza
 
-Please use Piazza ([sign-up link](https://piazza.com/umn/spring2021/chen3201/home)) for anything technical e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
+Please use Piazza ([sign-up link](https://piazza.com/umn/spring2021/chen3201/home)) for anything technical question e.g. homework, or anything else that applies broadly to the class. I encourage you to post your questions on Piazza and to try answering your classmates' questions. You can do so anonymously if you do not feel comfortable asking or answering a question publicly.
 
 
 ## Grading Policy
