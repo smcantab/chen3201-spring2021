@@ -54,16 +54,14 @@ We understand the pressures students face during the academic semester can be in
 
 Situations where students are found by a preponderance of the evidence to have engaged in academic dishonesty based on the reviews of student work by the course instructor on at least one examination in a course in the chemical engineering program will be addressed by the following program policy:
 
-1.	The instructor will seek to arrange an in-person or virtual meeting with the student to present them with the evidence of the academic dishonesty.
-2.	The student will have the opportunity to respond, in accordance with the policy from the Office of Community Standards (OCS).
-3.	If following this discussion, the instructor determines that academic dishonesty has not occurred, there will be no report to OCS and no sanctions.
-4.	Otherwise, the case will be referred to OCS with the following sanctions in the course:
-```
-a. If the academic dishonesty is confined to a single examination and the student has admitted fault, the student may be given the option to take an oral examination or closely proctored written examination to demonstrate their understanding of the material on the exam where they engaged in academic dishonesty. The grade on that supplemental exam will, at most, replace the original exam grade. If the student fails the supplemental exam, they will receive an F in the course. The decision to offer a supplemental exam is at the instructor’s discretion. In the absence of a supplemental exam, the student will receive a grade of zero on the exam in question. In either case, the student will receive a grade no higher than a C- in the course.
-b. If the academic dishonesty is confined to a single examination and the student challenges the finding of academic dishonesty, the case will be referred to OCS with a sanction of an F in the course.
-c. If academic dishonesty extends beyond a single exam to an additional exam or homework, the program policy for sanctions is that the student receive an F in the course.
-d. If the academic dishonesty is not related to an exam, the sanction will be determined by the instructor.
-```
+- The instructor will seek to arrange an in-person or virtual meeting with the student to present them with the evidence of the academic dishonesty.
+- The student will have the opportunity to respond, in accordance with the policy from the Office of Community Standards (OCS).
+- If following this discussion, the instructor determines that academic dishonesty has not occurred, there will be no report to OCS and no sanctions.
+- Otherwise, the case will be referred to OCS with the following sanctions in the course:
+    - If the academic dishonesty is confined to a single examination and the student has admitted fault, the student may be given the option to take an oral examination or closely proctored written examination to demonstrate their understanding of the material on the exam where they engaged in academic dishonesty. The grade on that supplemental exam will, at most, replace the original exam grade. If the student fails the supplemental exam, they will receive an F in the course. The decision to offer a supplemental exam is at the instructor’s discretion. In the absence of a supplemental exam, the student will receive a grade of zero on the exam in question. In either case, the student will receive a grade no higher than a C- in the course.
+    - If the academic dishonesty is confined to a single examination and the student challenges the finding of academic dishonesty, the case will be referred to OCS with a sanction of an F in the course.
+    - If academic dishonesty extends beyond a single exam to an additional exam or homework, the program policy for sanctions is that the student receive an F in the course.
+    - If the academic dishonesty is not related to an exam, the sanction will be determined by the instructor.
 
 In all cases, students may challenge the findings of academic dishonesty, in which case the disagreement will be resolved by OCS.
 
@@ -71,5 +69,5 @@ In all cases, students may challenge the findings of academic dishonesty, in whi
 
 All policies above apply, specifically for CHEN 3201:
 
-1. If the academic dishonesty is related to a midterm or the final exam, closely proctored supplemental exams will be offered and graded as pass (C-) or fail (F). The student will receive a grade no higher than a C- in the course.
-2. If the academic dishonesty is related to the homework, the homework will get a score of 0 and this will count towards the final grade.
+- If the academic dishonesty is related to a midterm or the final exam, closely proctored supplemental exams will be offered and graded as pass (C-) or fail (F). The student will receive a grade no higher than a C- in the course.
+- If the academic dishonesty is related to the homework, the homework will get a score of 0 and this will count towards the final grade.
