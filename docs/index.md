@@ -54,7 +54,7 @@ Very few problems in chemical engineering have analytical solutions. In the cour
 **TA office hours**:
 
 - **Kaylie**: Tuesday 10:00-11:00 am, Thursday 4:00-6:00 pm CDT
-- **Michael**:
+- **Michael**: Monday 3:00-4:00 pm, Thursday 6:00-8:00 pm CDT
 - **Hammer**: Monday 4:00-5:00 pm, Friday 4:00-6:00 pm CDT
 
 ## Communication
