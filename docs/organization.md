@@ -2,7 +2,7 @@
 
 ## Lectures & teaching materials
 
-**Lectures** will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146). You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture. They will be **recorded** an uploaded to [MediaSpace](https://mediaspace.umn.edu/) on the same day to an unlisted [playlist](https://mediaspace.umn.edu/playlist/edit/1_z9e09674//1).
+**Lectures** will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146). You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture. They will be **recorded** to the Zoom cloud and you will be able to access them via [Zoom@Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) (go to the Cloud Recordings tab).
 
 **Recitation**s will be held virtually via [Zoom @Canvas](https://canvas.umn.edu/courses/217014/external_tools/21146) You must be authenticated in Zoom with your `*@umn.edu` account to access the lecture.
 
