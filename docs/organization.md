@@ -82,7 +82,7 @@ F     | 0.000 | Represents failure in the course and no credit is earned.
 
 We understand the pressures students face during the academic semester can be intense, and that the temptation to engage in academic dishonesty can at times be high. However, the department is committed to the highest standards of academic honesty and integrity. To help ensure that our community standards are met, reviews of student academic integrity will take place throughout the semester. If academic dishonesty is uncovered, the following sanctions will be applied. Examples of these reviews involve cross-comparison of student work against other student work, work from prior semesters, or resources available online. If necessary, reviews of student work may continue after the submission of final course grades, and application or removal of sanctions may be imposed retroactively.
 
-Situations where students are found by a preponderance of the evidence to have engaged in academic dishonesty based on the reviews of student work by the course instructor on at least one examination in a course in the chemical engineering program will be addressed by the following program policy:
+Situations were students are found by a preponderance of the evidence to have engaged in academic dishonesty based on the reviews of student work by the course instructor on at least one examination in a course in the chemical engineering program will be addressed by the following program policy:
 
 - The instructor will seek to arrange an in-person or virtual meeting with the student to present them with the evidence of the academic dishonesty.
 - The student will have the opportunity to respond, in accordance with the policy from the Office of Community Standards (OCS).
@@ -101,7 +101,7 @@ All policies above apply, specifically for CHEN 3201:
 
 - If the academic dishonesty is related to a midterm or the final exam, closely proctored supplemental exams will be offered and graded as pass (C-) or fail (F). The student will receive a grade no higher than a C- in the course.
 - If the academic dishonesty is related to the homework, the homework will get a score of 0 and this will count towards the final grade.
-- You are allowed to use the codes from the book or codes that are posted from class, recitation and previous homeworks.  You are not allowed to use codes developed by previous or current students or any codes posted on-line.
+- You are allowed to use the codes from the book or codes that are posted from class, recitation and previous homeworks (you must indicate the origin of the code when you do so).  You are not allowed to use codes developed by previous or current students or any codes posted on-line.
 
 ### Code of Conduct
 
