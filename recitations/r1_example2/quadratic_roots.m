@@ -26,10 +26,10 @@ function quadratic_roots(a, b, c)
             i1 = sqrt(abs(d))/(2*a);
             r2 = r1;
             i2 = -i1;
-            fprintf('real root 1 %10.4f \n', r1)
-            fprintf('imaginary root 1 %10.4f \n', i1)
-            fprintf('real root 2 %12.4f \n', r2)
-            fprintf('imaginary root 2 %12.4f \n', i2)
+            fprintf('complex root 1: real part %12.4f \n', r1)
+            fprintf('complex root 1: imag part %12.4f \n', i1)
+            fprintf('complex root 2: real part %12.4f \n', r2)
+            fprintf('complex root 2: imag part %12.4f \n', i2)
         end
     end
 
